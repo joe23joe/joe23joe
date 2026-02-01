@@ -16,6 +16,8 @@ Documenting my journy on [X account](https://x.com/Joe23Joee)
 
 ## Cryptography paper work
 
+[Solutions for ZKsecurity SumCheck exercises](https://github.com/joe23joe/SumCheck-SageMath)
+
 [Solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
 
 [Solutions for CryptoHack Diffie-Hellman challenges](https://github.com/joe23joe/Diffie-Hellman)
