@@ -4,6 +4,7 @@ I’m Joe, a computer science student with a strong background in Math and rever
 Documenting my journy on [X account](https://x.com/Joe23Joee)
 
 ## Circom paper work
+[Creating Circom Security Checklist for Zippel Labs](https://github.com/ZippelLabs/Circom-Security)
 
 [Full independent implementation for MD5 hash function](https://github.com/joe23joe/MD5-hash-implementation)
 
