@@ -39,4 +39,4 @@ Documenting my journy on [X account](https://x.com/Joe23Joee)
 ## Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|August 2025 | GTE launchpad | code4rena | 1 Medium |
+|August 2025 | GTE launchpad | code4rena | 1 High |
