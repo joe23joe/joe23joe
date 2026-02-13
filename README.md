@@ -15,9 +15,11 @@ Documenting my journy on [X](https://x.com/Joe23Joee)
 [Rate-Limiting-Nullifier shadow audit](https://github.com/joe23joe/Shadow-audits/blob/main/Rate-Limiting-Nullifier-Circuits/Report.pdf)
 
 
-## Cryptography paper work
+## Cryptography & ZK paper work
 
 [Solutions for ZKsecurity SumCheck exercises](https://github.com/joe23joe/SumCheck-SageMath)
+
+[Solutions for RareSkills Bulletproofs exercises](https://github.com/joe23joe/Bulletproofs-python)
 
 [Solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
 
