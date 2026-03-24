@@ -14,6 +14,9 @@ Documenting my journy on [X](https://x.com/Joe23Joee)
 
 [Rate-Limiting-Nullifier shadow audit](https://github.com/joe23joe/Shadow-audits/blob/main/Rate-Limiting-Nullifier-Circuits/Report.pdf)
 
+## My Playground
+
+[Commit-Reveal CLI tool implemented in Rust](https://github.com/joe23joe/Commit-Reveal-CLI-Tool)
 
 ## Cryptography & ZK paper work
 
