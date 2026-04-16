@@ -24,10 +24,6 @@ Documenting my journy on [X](https://x.com/Joe23Joee)
 
 [Rate-Limiting-Nullifier shadow audit](https://github.com/joe23joe/Shadow-audits/blob/main/Rate-Limiting-Nullifier-Circuits/Report.pdf)
 
-## My Playground
-
-[Commit-Reveal CLI tool implemented in Rust](https://github.com/joe23joe/Commit-Reveal-CLI-Tool)
-
 ## Cryptography & ZK paper work
 
 [Solutions for ZKsecurity SumCheck exercises](https://github.com/joe23joe/SumCheck-SageMath)
@@ -37,6 +33,10 @@ Documenting my journy on [X](https://x.com/Joe23Joee)
 [Solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
 
 [Solutions for CryptoHack Diffie-Hellman challenges](https://github.com/joe23joe/Diffie-Hellman)
+
+## My Playground
+
+[Commit-Reveal CLI tool implemented in Rust](https://github.com/joe23joe/Commit-Reveal-CLI-Tool)
 
 ## CTFs
 [Ethernaut CTF](https://github.com/joe23joe/ethernaut-CTF)
