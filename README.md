@@ -3,6 +3,16 @@ I’m Joe, a computer science student with a strong background in Math and rever
 
 Documenting my journy on [X](https://x.com/Joe23Joee)
 
+
+## Public Contests
+| Date             | Contest                       | Placement                                                 | Platform                                                                                 | Findings | 
+|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|[4-6-2026](https://x.com/radcipher/status/2042522542728962523)  | Token Streaming & Vesting | 🥉3rd | Radcipher | 1 Critical 1 High 1 Medium
+|[3-30-2026](https://x.com/radcipher/status/2039971267906789742) | Crowdfunding with Batched Refunds | 🥈2nd | Radcipher | 1 Critical 3 High 1 Low
+|[3-27-2026](https://x.com/radcipher/status/2037472829671649444)  | Signature-Verification Voucher System | 6th | Radcipher | 1 Critical 1 High 2 Low
+|[8-28-2025](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | GTE launchpad | _ | Code4rena | 1 High
+
+
 ## Circom paper work
 [Created Circom Security Checklist for Zippel Labs](https://github.com/ZippelLabs/Circom-Security)
 
@@ -39,17 +49,4 @@ Documenting my journy on [X](https://x.com/Joe23Joee)
 [What are groups in abstract algebra](https://medium.com/@joe23joe/groups-in-abstract-algebra-a6c8ff86015f)
 
 [What are Elliptic curves](https://medium.com/@joe23joe/what-is-an-elliptic-curve-97906a6a5d83)
-
-
-## Public Contests
-| Date             | Contest                                                                       | Platform                                                                                 | Findings | 
-|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|August 2025 | GTE launchpad | code4rena | 1 High |
-
-## Radcipher Contest
-| Date                | Placement                                                                                 | Findings | 
-|:-------------------|:--------------------------------------------------------------------------------------------|:-------:|
-|[4-6-2026](https://x.com/radcipher/status/2042522542728962523)  | 🥉3rd | 1 Critical 1 High 1 Medium |
-|[3-30-2026](https://x.com/radcipher/status/2039971267906789742)  | 🥈2nd | 1 Critical 3 High 1 Low |
-|[3-27-2026](https://x.com/radcipher/status/2037472829671649444)  | 6th | 1 Critical 1 High 2 Low |
 
