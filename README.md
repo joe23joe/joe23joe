@@ -36,7 +36,6 @@ Documenting my journy on [X](https://x.com/Youssef23__)
 [Solutions for CryptoHack Diffie-Hellman challenges](https://github.com/joe23joe/Diffie-Hellman)
 
 ## My Playground
-[mini-zkvm](https://github.com/Youssef23Youssef/mini-zkvm)
 
 [Commit-Reveal CLI tool in Rust](https://github.com/joe23joe/Commit-Reveal-CLI-Tool)
 
